@@ -34,6 +34,9 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [EXPLORATORY ANALYSIS OF IPL](https://medium.com/@lakshmipavanteja.chinni/exploratory-analysis-of-ipl-f02eb28c8530?source=rss-4bfc0ff6164a------2)
+- [What new things am I learning? This is the most important thing for me.](https://medium.com/@lakshmipavanteja.chinni/what-new-things-am-i-learning-this-is-the-most-important-thing-for-me-60ee80619903?source=rss-4bfc0ff6164a------2)
+- [Exploration of some of PyTorch’s tensor functions:](https://medium.com/@lakshmipavanteja.chinni/exploration-of-some-of-pytorchs-tensor-functions-d6e236fae2c6?source=rss-4bfc0ff6164a------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
