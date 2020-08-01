@@ -41,4 +41,4 @@
 [linkedin]: https://www.linkedin.com/in/lakshmi-pavan-teja-160180158/
 [html]: https://www.sololearn.com/Certificate/1014-17342073/pdf/
 [css]: https://www.sololearn.com/Certificate/1023-17342073/pdf/
-[python]: https://www.coursera.org/account/accomplishments/verify/KZUUCR6GH6EY
+[python]: https://www.coursera.org/account/accomplishments/verify/KZUUCR6GH6EY 
