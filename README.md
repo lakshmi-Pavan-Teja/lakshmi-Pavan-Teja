@@ -30,10 +30,6 @@
 <br />
 <br />
 
-<img align="left" alt="lakshmi-Pavan-Teja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lakshmi-Pavan-Teja&show_icons=true&hide_border=true" />
-
-
-
 ---
 
 ### 📕 Latest Blog Posts
@@ -41,6 +37,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
+<img align="left" alt="lakshmi-Pavan-Teja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lakshmi-Pavan-Teja&show_icons=true&hide_border=true" />
+
 [twitter]: https://twitter.com/chinnilakshmip1
 [instagram]: https://www.instagram.com/_pavan_teja/
 [linkedin]: https://www.linkedin.com/in/lakshmi-pavan-teja-160180158/
