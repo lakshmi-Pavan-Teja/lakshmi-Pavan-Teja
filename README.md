@@ -41,7 +41,7 @@
 
 ---
 
-<img align="left" alt="lakshmi-Pavan-Teja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lakshmi-Pavan-Teja&show_icons=true&hide_border=true" />
+<img align="left" alt="lakshmi-Pavan-Teja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lakshmi-Pavan-Teja&hide=contribs&show_icons=true&hide_border=true" />
 
 [twitter]: https://twitter.com/chinnilakshmip1
 [instagram]: https://www.instagram.com/_pavan_teja/
