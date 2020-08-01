@@ -31,11 +31,17 @@
 <br />
 
 ---
+### 💼 Latest linkedin Posts
+<!-- Linkedin:START -->
+<!-- Linkedin:END -->
+
+---
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
+---
 [twitter]: https://twitter.com/chinnilakshmip1
 [instagram]: https://www.instagram.com/_pavan_teja/
 [linkedin]: https://www.linkedin.com/in/lakshmi-pavan-teja-160180158/
