@@ -31,11 +31,6 @@
 <br />
 
 ---
-### 💼 Latest linkedin Posts
-<!-- Linkedin:START -->
-<!-- Linkedin:END -->
-
----
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
