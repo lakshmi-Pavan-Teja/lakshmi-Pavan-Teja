@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning ML 💻
 - 🖊️ I’m Interested in Blogging Related to Data Science. 
 - 🥅 2020 Goals: Needs to focus on Projects, Blogging Skills. 
-- ⚡ Fact: I love to play Cricket🏏, Volly-ball 🏐.
+- ⚡ Fact: I love to play Cricket🏏, Volley-ball 🏐.
 
 ### Connect with me:
 
