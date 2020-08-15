@@ -1,5 +1,7 @@
 ### Hi there, I'm Pavan Teja 👋
 
+![](https://komarev.com/ghpvc/?username=lakshmi-pavan-teja)
+
 ## I'm a Student, Neophyte!  
 - 🌱 I’m currently learning ML 💻
 - 🖊️ I’m Interested in Blogging Related to Data Science. 
