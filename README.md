@@ -42,19 +42,18 @@
 
 ---
 
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com//lakshmi-Pavan-Teja/-Human-Protein-Classification/pull/1) in [lakshmi-Pavan-Teja/-Human-Protein-Classification](https://github.com//lakshmi-Pavan-Teja/-Human-Protein-Classification)
-2. 💪 Opened PR [#1](https://github.com//lakshmi-Pavan-Teja/-Human-Protein-Classification/pull/1) in [lakshmi-Pavan-Teja/-Human-Protein-Classification](https://github.com//lakshmi-Pavan-Teja/-Human-Protein-Classification)
-3. ❗️ Closed issue [#1](https://github.com//lakshmi-Pavan-Teja/lakshmi-Pavan-Teja/issues/1) in [lakshmi-Pavan-Teja/lakshmi-Pavan-Teja](https://github.com//lakshmi-Pavan-Teja/lakshmi-Pavan-Teja)
-4. ❗️ Opened issue [#1](https://github.com//lakshmi-Pavan-Teja/lakshmi-Pavan-Teja/issues/1) in [lakshmi-Pavan-Teja/lakshmi-Pavan-Teja](https://github.com//lakshmi-Pavan-Teja/lakshmi-Pavan-Teja)
-<!--END_SECTION:activity-->
-
 <img align="left" alt="lakshmi-Pavan-Teja's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lakshmi-Pavan-Teja&hide=contribs&show_icons=true&hide_border=true" />
 
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lakshmi-Pavan-Teja&layout=compact)](https://github.com/lakshmi-Pavan-Teja/github-readme-stats)
+
+
+### :zap: Recent Github Activity
+
+<!--START_SECTION:activity-->
+
 
 
 [twitter]: https://twitter.com/chinnilakshmip1
