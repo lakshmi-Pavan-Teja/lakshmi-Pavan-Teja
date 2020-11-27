@@ -55,7 +55,7 @@
 ### :zap: Recent Github Activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/lakshmi-Pavan-Teja/-Human-Protein-Classification/pull/1) in [lakshmi-Pavan-Teja/-Human-Protein-Classification](https://github.com/lakshmi-Pavan-Teja/-Human-Protein-Classification)
+1. ❗️ Opened issue [#2](https://github.com/lakshmi-Pavan-Teja/lakshmi-Pavan-Teja/issues/2) in [lakshmi-Pavan-Teja/lakshmi-Pavan-Teja](https://github.com/lakshmi-Pavan-Teja/lakshmi-Pavan-Teja)
 2. 💪 Opened PR [#1](https://github.com/lakshmi-Pavan-Teja/-Human-Protein-Classification/pull/1) in [lakshmi-Pavan-Teja/-Human-Protein-Classification](https://github.com/lakshmi-Pavan-Teja/-Human-Protein-Classification)
 3. ❗️ Closed issue [#1](https://github.com/lakshmi-Pavan-Teja/lakshmi-Pavan-Teja/issues/1) in [lakshmi-Pavan-Teja/lakshmi-Pavan-Teja](https://github.com/lakshmi-Pavan-Teja/lakshmi-Pavan-Teja)
 4. ❗️ Opened issue [#1](https://github.com/lakshmi-Pavan-Teja/lakshmi-Pavan-Teja/issues/1) in [lakshmi-Pavan-Teja/lakshmi-Pavan-Teja](https://github.com/lakshmi-Pavan-Teja/lakshmi-Pavan-Teja)
